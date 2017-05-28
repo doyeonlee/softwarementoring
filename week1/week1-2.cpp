@@ -3,8 +3,8 @@
 *
 *title : number pyramid
 *
-* @author Doyeon Lee
-* @since 2017-05-10
+* @author	Doyeon Lee
+* @since	2017-05-10
 */
 #include<stdio.h>
 

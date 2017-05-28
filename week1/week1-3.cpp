@@ -3,8 +3,8 @@
 *
 *title : this text is num/upper/lower
 *
-* @author Doyeon Lee
-* @since 2017-05-10
+* @author	Doyeon Lee
+* @since	2017-05-10
 */
 #include<stdio.h>
 int main() {
